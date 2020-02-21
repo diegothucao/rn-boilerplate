@@ -3,7 +3,7 @@ import { getReactNativeVersion } from "./lib/react-native-version"
 import { GluegunToolbox } from "gluegun"
 
 // We need this value here, as well as in our package.json.ejs template
-const REACT_NATIVE_GESTURE_HANDLER_VERSION = "^1.5.0"
+const REACT_NATIVE_GESTURE_HANDLER_VERSION = "^1.6.0"
 
 /**
  * Is Android installed?
